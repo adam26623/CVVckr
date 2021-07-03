@@ -7,7 +7,7 @@ package encrypted;
 
 /**
  *
- * @author Piedra Fernandez Gabriel (236557)
+ * @author DarkOvs77
  */
 import java.util.Base64;
 
