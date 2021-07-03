@@ -7,7 +7,7 @@ package options;
 
 /**
  *
- * @author Piedra Fernandez Gabriel (236557)
+ * @author DarkOvs77
  */
 import java.io.BufferedReader;
 import java.io.File;
