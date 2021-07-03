@@ -7,7 +7,7 @@ package requests;
 
 /**
  *
- * @author Piedra Fernandez Gabriel (236557)
+ * @author DarkOvs77
  */
 import configuration.MyConfiguration;
 import encrypted.MyEncrypt;
