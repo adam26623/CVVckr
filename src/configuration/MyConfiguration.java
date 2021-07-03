@@ -7,7 +7,7 @@ package configuration;
 
 /**
  *
- * @author Piedra Fernandez Gabriel (236557)
+ * @author DarkOvs77
  */
 public class MyConfiguration {
 
